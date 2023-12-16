@@ -15,6 +15,7 @@
     "@types/dat.gui": "^0.7.12",
     "@types/three": "^0.134.0",
     "dat.gui": "^0.7.9",
+    "gh-pages": "^6.1.0",
     "three": "^0.134.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.3.3",
