@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "moduleResolution": "node",
+        "strict": true,
+        "module": "commonjs",
+    "esModuleInterop": true
+    },
+    "include": ["**/*.ts", "scripts/renderer.ts"]
+}
